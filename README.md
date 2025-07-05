@@ -9,13 +9,11 @@ The dataset contains videos recorded by us in low-light using mobile cameras, al
 It has total of **6613 videos** across **12 distinct classes**:
 **Boxing, Drink, Lifting Weights, Picking, Push, Receiving the Phone, Run, Stand, Throwing objects, Walking on Stairs, Walking with Flashlight, Waving**.
 
-The dataset used in this project is stored on Google Drive. The full report and dataset link are provided below, along with a sample image from the dataset.
+The dataset used in this project is stored on Google Drive. The dataset link is provided below, along with a sample image from the dataset.
 
 ## 📂 Dataset
 📥 [Click here to download/view the dataset](https://drive.google.com/file/d/1A8g2k9zHzxpxtz4Qv_SzPVfS6XJd-TS9/view?usp=sharing)
 
-## 📄 Report
-📄 [Click here to download/view the full report(PDF)](./NoctACt_HAR.pdf)
 
 ## 🖼️ Sample Image
 📸 [Overview Image](./sample_img.png)
