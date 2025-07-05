@@ -18,7 +18,7 @@ The dataset used in this project is stored on Google Drive. The full report and 
 📄 [Click here to download/view the full report(PDF)](./NoctACt_HAR.pdf)
 
 ## 🖼️ Sample Image
-!📸 [Overview Image](./sample_img.png)
+📸 [Overview Image](./sample_img.png)
 
 ## 📌 Project Summary
 
