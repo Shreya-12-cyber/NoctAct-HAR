@@ -1,12 +1,12 @@
-
 cff-version: 1.2.0
 message: "If you use this dataset in your research or project, please cite it as below:"
 authors:
-  - given-names: Shreya
-  - family-names: Kumar
-    given-names: Lakavath Akshay
-  - family-names: Das
-    given-names: Pranesh
+  - name: Shreya
+  - given-names: Akshay Kumar
+    family-names: Lakavath
+  - given-names: Pranesh
+    family-names: Das
+
 title: "NoctAct-HAR: Human Action Recognition in Dark Environments"
 version: "1.0"
 date-released: 2025-04-01
@@ -15,7 +15,6 @@ repository-code: "https://github.com/Shreya-12-cyber/NoctAct-HAR"
 license: MIT
 keywords:
   - Human Action Recognition
-  - Deep Learning
-  - Low Light Video
-  - Surveillance
+  - Low-Light Videos
   - LRCN
+  - Deep Learning
