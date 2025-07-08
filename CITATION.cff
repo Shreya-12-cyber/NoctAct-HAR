@@ -10,7 +10,8 @@ authors:
 title: "NoctAct-HAR: Human Action Recognition in Dark Environments"
 version: "1.0"
 date-released: 2025-04-01
-url: "https://www.kaggle.com/datasets/lakavathakshay/noctact-har"
+doi: 10.34740/KAGGLE/DSV/12389833
+url: "https://www.kaggle.com/dsv/12389833"
 repository-code: "https://github.com/Shreya-12-cyber/NoctAct-HAR"
 license: MIT
 keywords:
